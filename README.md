@@ -14,5 +14,5 @@ I’m a back-end developer with over **3 years of experience** in architecting a
 ---
 
 ## 🛠️ Skills
-[![JavaScript](https://skillicons.dev/icons?i=js,typescript,nodejs,express,nestjs,git,postgres,firebase,gcp,docker)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js,typescript,nodejs,express,nestjs,git,postgres,firebase,gcp,docker,redis)](https://skillicons.dev)
 
