@@ -13,6 +13,13 @@ I’m a back-end developer with over **4 years of experience** in architecting a
 
 ---
 
+## 📫 Let's Connect
+
+- 📧 Email: vsrdouglas14@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/douglas-rodrigues-baa496172)
+
+---
+
 ## 🛠️ Skills
 [![JavaScript](https://skillicons.dev/icons?i=js,typescript,nodejs,express,nestjs,git,postgres,firebase,gcp,docker,redis)](https://skillicons.dev)
 
