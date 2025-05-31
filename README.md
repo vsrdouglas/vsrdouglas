@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a back-end developer with over **3 years of experience** in architecting and implementing robust and efficient server-side solutions. I hold a degree in **Control and Automation Engineering** and I’m passionate about solving complex problems and building scalable, high-performance applications.
+I’m a back-end developer with over **4 years of experience** in architecting and implementing robust and efficient server-side solutions. I hold a degree in **Control and Automation Engineering** and I’m passionate about solving complex problems and building scalable, high-performance applications.
 
 ---
 
