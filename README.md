@@ -13,11 +13,6 @@ I’m a back-end developer with over **3 years of experience** in architecting a
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
+[![JavaScript](https://skillicons.dev/icons?i=js,typescript,nodejs,express,sequelize,nestjs,git,postgres,firebase,gcp,docker,jest)](https://skillicons.dev)
 
-- **Languages:** TypeScript, JavaScript  
-- **Frameworks:** Node.js, Express.js, NestJs 
-- **Cloud:** Google Cloud Platform (GCP), Firebase  
-- **DevOps:** Docker, Serverless, CI/CD pipelines  
-- **Databases:** PostgreSQL  
-- **Other Tools:** Recurly, Jest
